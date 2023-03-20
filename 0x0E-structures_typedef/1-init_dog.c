@@ -1,4 +1,4 @@
-1-init_dog.c CODE
+1 - init_dog.c CODE
 
 
 #include <stdlib.h>
